@@ -1,0 +1,66 @@
+.header{
+    text-align: center;
+    background-color: bisque;
+  }
+  
+  .main{
+    width: 90%;
+    background-color: lightcyan;
+    margin: 0 auto;
+  }
+  
+  .hobby{
+    background-color: lightsalmon;
+    border: 2px solid salmon;
+    margin: 20px 0;
+    padding: 0 40px;
+  }
+
+ .work img{
+margin: 20px 50px;
+}
+
+  .work{
+ background-color: lightcoral;
+}
+
+.family{
+ background-color: lightgreen;
+ 
+   }
+  
+h2{
+    text-align: center;
+}
+
+
+.text1{
+ text-align: justify;
+ line-height: 50px;
+ padding: 20px;
+ font-size: 20px;
+ font-weight: bolder;
+}
+
+.family img{
+    margin: 20px 50px;
+width: 400px;}
+
+.hobby img{
+ width: 400px;
+}
+
+p {
+line-height: 100px;
+}
+
+.info{
+border: 2px solid black;
+margin:20px 0;
+}
+.info img{
+width: 30px;
+margin: 10px ;
+position: relative;
+text-align: center;
+}
